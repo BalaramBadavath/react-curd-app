@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Balaram",
+      "phone": 9874563210,
+      "email": "ram@gmail.com",
+      "degree": "B.Tech",
+      "stream": "ECE",
+      "percentage": "64%",
+      "yop": 2023
+    },
+    {
+      "id": "cb90",
+      "name": "BALARAM BADAVATH ",
+      "phone": "9347063098",
+      "email": "badavathbalaram17@gmail.com",
+      "degree": "B. TECH",
+      "stream": "ECE",
+      "percentage": "64%",
+      "yop": "2023"
+    }
+  ]
+}

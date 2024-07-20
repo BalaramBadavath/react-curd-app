@@ -1,0 +1,14 @@
+{
+  "USERS": [
+    {
+      "id": "1",
+      "name": "Ram",
+      "phone": 9347063098,
+      "email": "ram@gmail.com",
+      "degree": "B. Tech",
+      "stream": "ECE",
+      "percentage": "64%",
+      "yop": 2023
+    }
+  ]
+}
